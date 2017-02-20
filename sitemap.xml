@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://labsim.github.io/blog/2017/02/day/under-construction/</loc>
-    <lastmod>2017-02-16T00:00:00+01:00</lastmod>
+    <loc>https://labsim.github.io/blog/2017/02/day/up/</loc>
+    <lastmod>2017-02-20T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://labsim.github.io/blog/2017/02/day/up/</loc>
+    <loc>https://labsim.github.io/blog/2017/02/day/under-construction/</loc>
     <lastmod>2017-02-16T00:00:00+01:00</lastmod>
   </url>
   
@@ -18,7 +18,7 @@
   
   <url>
     <loc>https://labsim.github.io/blog/</loc>
-    <lastmod>2017-02-16T00:00:00+01:00</lastmod>
+    <lastmod>2017-02-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -33,25 +33,25 @@
   
   <url>
     <loc>https://labsim.github.io/tags/event/</loc>
-    <lastmod>2017-02-16T00:00:00+01:00</lastmod>
+    <lastmod>2017-02-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://labsim.github.io/</loc>
-    <lastmod>2017-02-16T00:00:00+01:00</lastmod>
+    <lastmod>2017-02-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://labsim.github.io/tags/maintenance/</loc>
-    <lastmod>2017-02-16T00:00:00+01:00</lastmod>
+    <lastmod>2017-02-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://labsim.github.io/categories/news/</loc>
-    <lastmod>2017-02-16T00:00:00+01:00</lastmod>
+    <lastmod>2017-02-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
