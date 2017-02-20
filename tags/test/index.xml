@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on LABSIM</title>
+    <link>https://labsim.github.io/tags/test/index.xml</link>
+    <description>Recent content in Test on LABSIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2016, ONERA; all rights reserved.</copyright>
+    <atom:link href="https://labsim.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TEST</title>
+      <link>https://labsim.github.io/blog/2017/02/day/test/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://labsim.github.io/blog/2017/02/day/test/</guid>
+      <description>
+
+&lt;h2 id=&#34;test&#34;&gt;TEST&lt;/h2&gt;
+
+&lt;p&gt;Initial commit ! :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

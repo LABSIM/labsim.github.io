@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LABSIM</title>
+    <link>https://labsim.github.io/index.xml</link>
+    <description>Recent content on LABSIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2016, ONERA; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://labsim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Under construction</title>
+      <link>https://labsim.github.io/blog/2017/02/day/under-construction/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://labsim.github.io/blog/2017/02/day/under-construction/</guid>
+      <description>
+
+&lt;h2 id=&#34;main-event&#34;&gt;Main Event&lt;/h2&gt;
+
+&lt;p&gt;We are please to announce our news static website. Actually still under construction&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;feedbacks are welcome :)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TEST</title>
+      <link>https://labsim.github.io/blog/2017/02/day/test/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://labsim.github.io/blog/2017/02/day/test/</guid>
+      <description>
+
+&lt;h2 id=&#34;test&#34;&gt;TEST&lt;/h2&gt;
+
+&lt;p&gt;Initial commit ! :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://labsim.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://labsim.github.io/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
+
+&lt;p&gt;Are you curious about something? Please feel free to contact us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Team mate</title>
+      <link>https://labsim.github.io/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://labsim.github.io/team/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our team is a composition of different scientific fields :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;computer-science&#34;&gt;Computer Science&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;neuroergonomics-human-system-integration&#34;&gt;Neuroergonomics &amp;amp; Human-System Integration&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;rotorcraft&#34;&gt;Rotorcraft&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/roundbanner-nkinani_200px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;&lt;em&gt;Nawfel KINANI&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Lead Dev&lt;/em&gt; - Research Engineer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
