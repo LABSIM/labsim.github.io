@@ -7,21 +7,6 @@
   </url>
   
   <url>
-    <loc>https://labsim.github.io/blog/2017/02/day/up/</loc>
-    <lastmod>2017-02-20T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://labsim.github.io/blog/2017/02/day/under-construction/</loc>
-    <lastmod>2017-02-16T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://labsim.github.io/blog/2017/02/day/test/</loc>
-    <lastmod>2017-02-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://labsim.github.io/blog/</loc>
     <lastmod>2017-02-21T15:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -67,12 +52,6 @@
   
   <url>
     <loc>https://labsim.github.io/team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://labsim.github.io/tags/test/</loc>
-    <lastmod>2017-02-15T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
