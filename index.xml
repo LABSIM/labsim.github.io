@@ -7,8 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, ONERA; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 15:44:18 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 17:50:25 +0100</lastBuildDate>
     <atom:link href="https://labsim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Update 2. Open Beta.</title>
+      <link>https://labsim.github.io/blog/2017/03/day/update-2/</link>
+      <pubDate>Wed, 01 Mar 2017 17:50:25 +0100</pubDate>
+      
+      <guid>https://labsim.github.io/blog/2017/03/day/update-2/</guid>
+      <description>
+
+&lt;h2 id=&#34;open-beta&#34;&gt;Open Beta.&lt;/h2&gt;
+
+&lt;p&gt;Update 2.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;added some member to team mate board but it stil lacks some role &amp;amp; capture&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;major-update&#34;&gt;Major update :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added the &lt;a href=&#34;https://labsim.github.io/about/&#34;&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/a&gt; page which describe LABSIM capabilities &amp;amp; facilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;finish &amp;amp; polish team mate board.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add content to LABSIM technical documentation website.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Update 1. Open Beta.</title>
@@ -20,9 +60,13 @@
 
 &lt;h2 id=&#34;open-beta&#34;&gt;Open Beta.&lt;/h2&gt;
 
-&lt;p&gt;Minors update :&lt;/p&gt;
+&lt;p&gt;Update 1.&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;added phd(s) to team mate board.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;corrected some error&amp;hellip;&lt;/p&gt;&lt;/li&gt;
@@ -30,19 +74,21 @@
 &lt;li&gt;&lt;p&gt;added &lt;strong&gt;alpha&lt;/strong&gt; &lt;a href=&#34;https://labsim.github.io/technical-doc/&#34;&gt;technical doc website&lt;/a&gt; + binding but it remains under heavy construction. &lt;em&gt;feedbacks are welcome.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;added &lt;strong&gt;alpha&lt;/strong&gt; &lt;a href=&#34;https://nkinani.github.io/profile/&#34;&gt;personnal profile exemple&lt;/a&gt; on team board based on &lt;em&gt;&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/&#34;&gt;Academic Theme for HUGO&lt;/a&gt;&lt;/em&gt;. This second link is far more complete. &lt;em&gt;feedbacks are welcome.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Next update :&lt;/p&gt;
+&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;finish &amp;amp; polish team mate board.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add content to LABSIM technical documentation website.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;if personal profile convinced you &amp;amp; fit your needs, then i will write down a &amp;ldquo;HOW TO&amp;rdquo; procedure.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
 
-&lt;p&gt;Cheers.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -56,9 +102,13 @@
 
 &lt;h2 id=&#34;open-beta&#34;&gt;Open Beta&lt;/h2&gt;
 
-&lt;p&gt;Minors update :&lt;/p&gt;
+&lt;p&gt;Update 0.&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;team now follow actual composition. &lt;em&gt;Maybe we should add phd affiliate ? Under a specific section ? or not ?&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;team mate now have a pretty face, a correct role &amp;amp; branch/department/unit classification.&lt;/p&gt;&lt;/li&gt;
@@ -66,11 +116,11 @@
 &lt;li&gt;&lt;p&gt;corrected some error&amp;hellip;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add binding to disqus. It allow visitor to freely discuss around blog article.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Next update :&lt;/p&gt;
+&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;finalize team mate board (picture + role)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add labsim API key for Google Maps binding. (&lt;strong&gt;&lt;a href=&#34;https://labsim.github.io/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/strong&gt; section bug)&lt;/p&gt;&lt;/li&gt;
@@ -80,9 +130,252 @@
 &lt;li&gt;&lt;p&gt;personnal scienfic profile + procedure &amp;ldquo;HOW TO&amp;rdquo;. Probably based on &lt;em&gt;&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/&#34;&gt;Academic Theme for HUGO&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cheers&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://labsim.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://labsim.github.io/about/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/logo_square.png&#34; alt=&#34;logo_squared&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;The &lt;strong&gt;ONERA LABSIM&lt;/strong&gt; (LABoratoire de SIMulation), created mid-October 2010, was initially designed to support &lt;em&gt;human-system interaction in helicopter operations&lt;/em&gt; research studies in order to reveal innovative interaction concepts, prototype &amp;amp; evaluate them in piloted simulation.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;capabilities&#34;&gt;Capabilities&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Following the VR principles, the LABSIM capabilities can be dived as 3 categories :&lt;/p&gt;
+
+&lt;h3 id=&#34;1-sensory-motor-devices-exploring-next-gen-piloting-interfaces&#34;&gt;1. Sensory-motor devices : &lt;em&gt;&amp;ldquo;Exploring next-gen piloting interfaces&amp;rdquo;&lt;/em&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wittenstein &amp;copy; active side-sticks for flight envelop protection &amp;amp; obstacke avoidance&lt;/li&gt;
+&lt;li&gt;multi-touch devices with up to ten touch-points&lt;/li&gt;
+&lt;li&gt;Haption Virtuose &amp;copy; 6-dimensional robot arm for disruptive interaction means&lt;/li&gt;
+&lt;li&gt;hand free gesture captue through LeapMotion &amp;copy; devices&lt;/li&gt;
+&lt;li&gt;AR &amp;amp; VR head-mounted display&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2-biophysical-sensors-quantifying-modeling-the-human-behavior&#34;&gt;2. Biophysical Sensors : &lt;em&gt;&amp;ldquo;Quantifying &amp;amp; modeling the human behavior&amp;rdquo;&lt;/em&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Optirack &amp;copy; 120Hz infra-red based mo-cap device&lt;/li&gt;
+&lt;li&gt;SmartEye &amp;copy; binocular 120hZ eye-tracker&lt;/li&gt;
+&lt;li&gt;Biopac &amp;copy; with 16 channels : EEG, EMG, ECG, GSR, force sensor&lt;/li&gt;
+&lt;li&gt;BrainVision &amp;copy;  96 channels EEG system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;3-expert-models-modelling-the-flight-behaviour-with-high-fidelity&#34;&gt;3. Expert Models : &lt;em&gt;&amp;ldquo;Modelling the flight behaviour with high fidelity&amp;rdquo;&lt;/em&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ART FlightLab &amp;copy; (aircraft, rotorcraft, UAV&amp;rsquo;s)&lt;/li&gt;
+&lt;li&gt;ship deck modeling&lt;/li&gt;
+&lt;li&gt;flight control systems&lt;/li&gt;
+&lt;li&gt;generic avionics models&lt;/li&gt;
+&lt;li&gt;&amp;amp; more &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;facilities&#34;&gt;Facilities&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;First of all, every facilities can all work simultaneously in shared scenarios trough the LABSIM software simulation ecosystem. Actually, we maintain three physical means :&lt;/p&gt;
+
+&lt;h3 id=&#34;1-pycshel-prototyping-conceptions-of-systems-for-helicopters&#34;&gt;1. PYCSHEL - prototyping &amp;amp; conceptions of systems for helicopters&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/pxl-closeup-sized.jpg&#34; alt=&#34;pxl_closeup&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/pxl-large-sized.jpg&#34; alt=&#34;pxl_large&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;Multi-touch screen close up with simplified avionics&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;CAVE overview with LABSIM VESA image generator&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/pxl-ecg-sized.jpg&#34; alt=&#34;pxl_ecg&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/pxl-mocap-sized.jpg&#34; alt=&#34;pxl_mocap&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;subject equiped with the Biopac &amp;copy; ECG&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;same subject equiped with the Biopac &amp;copy; ECG&lt;br&gt; and the Optirack &amp;copy; Flex13 mocap sensors&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;2-scheme-prototyping-bench-for-innovative-interfaces&#34;&gt;2. SCHEME - prototyping bench for innovative interfaces&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/scheme-wide.jpg&#34; alt=&#34;scheme_overview&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/scheme-cockpit.jpg&#34; alt=&#34;scheme_cockpit&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;Simpit Icarus 180 Avenger &amp;copy; immersive CAVE &lt;br&gt;equipped with the SmartEye &amp;copy; eye tracker back station&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;Close-up of the SCHEME immersive cockpit&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;3-lips-laboratory-for-pilot-system-interaction-studies&#34;&gt;3. LIPS - laboratory for pilot/system interaction studies&lt;/h3&gt;
+
+&lt;p&gt;This laboratory is mainly used for the human-system interaction studies. It allows the interaction of up to 10 operators (ATC’s, pilots, UAV payload operators, UAV pilots,…) in a complex scenario with up to 128 vehicles. It grant the possibility to study the interactions between the operators and the systems or between the different operators&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/lips-eeg.jpg&#34; alt=&#34;lips_eeg&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_100px.jpg&#34; alt=&#34;blank_100px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/facility/lips-mono.jpg&#34; alt=&#34;lips_mono&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;Simple experiment with the Biopac &amp;copy; EEG&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;Overview of the multi-UAV mono-operator fusion post&lt;br&gt;equipped with the Biopac &amp;copy; ECG&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;If you want to know more about the software ecosystem that leaverage the LABSIM, then you should check our &lt;a href=&#34;https://labsim.github.io/technical-doc/&#34;&gt;in depth technical documentation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/banners/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -10,6 +10,46 @@
     <atom:link href="https://labsim.github.io/tags/maintenance/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Update 2. Open Beta.</title>
+      <link>https://labsim.github.io/blog/2017/03/day/update-2/</link>
+      <pubDate>Wed, 01 Mar 2017 17:50:25 +0100</pubDate>
+      
+      <guid>https://labsim.github.io/blog/2017/03/day/update-2/</guid>
+      <description>
+
+&lt;h2 id=&#34;open-beta&#34;&gt;Open Beta.&lt;/h2&gt;
+
+&lt;p&gt;Update 2.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;added some member to team mate board but it stil lacks some role &amp;amp; capture&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;major-update&#34;&gt;Major update :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added the &lt;a href=&#34;https://labsim.github.io/about/&#34;&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/a&gt; page which describe LABSIM capabilities &amp;amp; facilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;finish &amp;amp; polish team mate board.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add content to LABSIM technical documentation website.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Update 1. Open Beta.</title>
       <link>https://labsim.github.io/blog/2017/02/day/update-1/</link>
       <pubDate>Thu, 23 Feb 2017 15:44:18 +0100</pubDate>
@@ -19,9 +59,13 @@
 
 &lt;h2 id=&#34;open-beta&#34;&gt;Open Beta.&lt;/h2&gt;
 
-&lt;p&gt;Minors update :&lt;/p&gt;
+&lt;p&gt;Update 1.&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;added phd(s) to team mate board.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;corrected some error&amp;hellip;&lt;/p&gt;&lt;/li&gt;
@@ -29,19 +73,21 @@
 &lt;li&gt;&lt;p&gt;added &lt;strong&gt;alpha&lt;/strong&gt; &lt;a href=&#34;https://labsim.github.io/technical-doc/&#34;&gt;technical doc website&lt;/a&gt; + binding but it remains under heavy construction. &lt;em&gt;feedbacks are welcome.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;added &lt;strong&gt;alpha&lt;/strong&gt; &lt;a href=&#34;https://nkinani.github.io/profile/&#34;&gt;personnal profile exemple&lt;/a&gt; on team board based on &lt;em&gt;&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/&#34;&gt;Academic Theme for HUGO&lt;/a&gt;&lt;/em&gt;. This second link is far more complete. &lt;em&gt;feedbacks are welcome.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Next update :&lt;/p&gt;
+&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;finish &amp;amp; polish team mate board.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add content to LABSIM technical documentation website.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;if personal profile convinced you &amp;amp; fit your needs, then i will write down a &amp;ldquo;HOW TO&amp;rdquo; procedure.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
 
-&lt;p&gt;Cheers.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -55,9 +101,13 @@
 
 &lt;h2 id=&#34;open-beta&#34;&gt;Open Beta&lt;/h2&gt;
 
-&lt;p&gt;Minors update :&lt;/p&gt;
+&lt;p&gt;Update 0.&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;team now follow actual composition. &lt;em&gt;Maybe we should add phd affiliate ? Under a specific section ? or not ?&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;team mate now have a pretty face, a correct role &amp;amp; branch/department/unit classification.&lt;/p&gt;&lt;/li&gt;
@@ -65,11 +115,11 @@
 &lt;li&gt;&lt;p&gt;corrected some error&amp;hellip;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add binding to disqus. It allow visitor to freely discuss around blog article.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Next update :&lt;/p&gt;
+&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;finalize team mate board (picture + role)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add labsim API key for Google Maps binding. (&lt;strong&gt;&lt;a href=&#34;https://labsim.github.io/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/strong&gt; section bug)&lt;/p&gt;&lt;/li&gt;
@@ -79,9 +129,9 @@
 &lt;li&gt;&lt;p&gt;personnal scienfic profile + procedure &amp;ldquo;HOW TO&amp;rdquo;. Probably based on &lt;em&gt;&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/&#34;&gt;Academic Theme for HUGO&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cheers&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
