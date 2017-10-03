@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on LABSIM</title>
-    <link>https://labsim.github.io/blog/index.xml</link>
+    <link>https://labsim.github.io/blog/</link>
     <description>Recent content in Blogs on LABSIM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, ONERA; all rights reserved.</copyright>
     <lastBuildDate>Mon, 20 Mar 2017 10:41:27 +0100</lastBuildDate>
-    <atom:link href="https://labsim.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://labsim.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Projet de Recherche - CONTAHCT</title>
@@ -16,94 +18,8 @@
       <pubDate>Mon, 20 Mar 2017 10:41:27 +0100</pubDate>
       
       <guid>https://labsim.github.io/blog/2017/03/day/pr-contahct/</guid>
-      <description>
-
-&lt;h3 id=&#34;titre&#34;&gt;Titre&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;CONTAHCT&lt;/strong&gt; - &lt;em&gt;&lt;strong&gt;CON&lt;/strong&gt;ception d’une assis&lt;strong&gt;T&lt;/strong&gt;ance à l’&lt;strong&gt;A&lt;/strong&gt;ppontage &lt;strong&gt;H&lt;/strong&gt;élicoptères intégrant des techniques basées &lt;strong&gt;C&lt;/strong&gt;ap&lt;strong&gt;T&lt;/strong&gt;eurs&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;problématique&#34;&gt;Problématique&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Comment aider au mieux les pilotes dans un environnement complexe et incertain ? &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;resumé&#34;&gt;Resumé&lt;/h3&gt;
-
-&lt;p&gt;L&amp;rsquo;appontage d&amp;rsquo;un hélicoptère sur des bâtiments marins ou des plateformes isolées constitue une opération complexe, par la présence d’un environnement inhabituel et stressant, d’une aérologie singulière et éventuellement des mouvements du pont. À travers ce projet, on souhaite donc concevoir, mettre au point et évaluer des techniques d’aide au pilotage lors d’un appontage d’hélicoptère. Ces techniques pourront utiliser d’une part des informations de nature visuelle acquises par des senseurs embarqués sur l’aéronef ou le pont, d’autre part des interfaces de pilotage évoluées pour assister explicitement le pilote durant les différentes phases de la manœuvre.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/news/pr-contahct-0.png&#34; alt=&#34;pr-contacht-0&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/news/pr-contahct-1.png&#34; alt=&#34;pr-contacht-1&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/news/pr-contahct-2.png&#34; alt=&#34;pr-contacht-2&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;objectif&#34;&gt;Objectif&lt;/h3&gt;
-
-&lt;p&gt;L’expérimentation proposée vise à implémenter différentes lois de haut niveau d’assistance au pilotage, et à évaluer celles-ci en simulation pilotée dans un environnement réaliste.&lt;/p&gt;
-
-&lt;h3 id=&#34;référence&#34;&gt;Référence&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Q. H. Truong, T. Rakotomamonjy, A. Taghizad, J.-M. Biannic, Vision-based control for helicopter ship landing with handling qualities constraints,20th IFAC Symposium on Automatic Control in Aerospace, Sherbrooke, 2016.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Titre CONTAHCT - CONception d’une assisTance à l’Appontage Hélicoptères intégrant des techniques basées CapTeurs
+Problématique  Comment aider au mieux les pilotes dans un environnement complexe et incertain ?  Resumé L&amp;rsquo;appontage d&amp;rsquo;un hélicoptère sur des bâtiments marins ou des plateformes isolées constitue une opération complexe, par la présence d’un environnement inhabituel et stressant, d’une aérologie singulière et éventuellement des mouvements du pont. À travers ce projet, on souhaite donc concevoir, mettre au point et évaluer des techniques d’aide au pilotage lors d’un appontage d’hélicoptère.</description>
     </item>
     
     <item>
@@ -112,38 +28,12 @@
       <pubDate>Wed, 01 Mar 2017 17:50:25 +0100</pubDate>
       
       <guid>https://labsim.github.io/blog/2017/03/day/update-2/</guid>
-      <description>
-
-&lt;h2 id=&#34;open-beta&#34;&gt;Open Beta.&lt;/h2&gt;
-
-&lt;p&gt;Update 2.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;added some member to team mate board but it stil lacks some role &amp;amp; capture&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;major-update&#34;&gt;Major update :&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Added the &lt;a href=&#34;https://labsim.github.io/about/&#34;&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/a&gt; page which describe LABSIM capabilities &amp;amp; facilities.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;finish &amp;amp; polish team mate board.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;add content to LABSIM technical documentation website.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Open Beta. Update 2.
+Minors update :  added some member to team mate board but it stil lacks some role &amp;amp; capture&amp;hellip;  Major update :  Added the About page which describe LABSIM capabilities &amp;amp; facilities.  Next update :  finish &amp;amp; polish team mate board.
+ add content to LABSIM technical documentation website.
+ correct the other, yet undiscovered, error.
+  
+Cheers.</description>
     </item>
     
     <item>
@@ -152,40 +42,12 @@
       <pubDate>Thu, 23 Feb 2017 15:44:18 +0100</pubDate>
       
       <guid>https://labsim.github.io/blog/2017/02/day/update-1/</guid>
-      <description>
-
-&lt;h2 id=&#34;open-beta&#34;&gt;Open Beta.&lt;/h2&gt;
-
-&lt;p&gt;Update 1.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;added phd(s) to team mate board.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;corrected some error&amp;hellip;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;added &lt;strong&gt;alpha&lt;/strong&gt; &lt;a href=&#34;https://labsim.github.io/technical-doc/&#34;&gt;technical doc website&lt;/a&gt; + binding but it remains under heavy construction. &lt;em&gt;feedbacks are welcome.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;added &lt;strong&gt;alpha&lt;/strong&gt; &lt;a href=&#34;https://nkinani.github.io/profile/&#34;&gt;personnal profile exemple&lt;/a&gt; on team board based on &lt;em&gt;&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/&#34;&gt;Academic Theme for HUGO&lt;/a&gt;&lt;/em&gt;. This second link is far more complete. &lt;em&gt;feedbacks are welcome.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;finish &amp;amp; polish team mate board.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;add content to LABSIM technical documentation website.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;if personal profile convinced you &amp;amp; fit your needs, then i will write down a &amp;ldquo;HOW TO&amp;rdquo; procedure.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Open Beta. Update 1.
+Minors update :  added phd(s) to team mate board.
+ corrected some error&amp;hellip;
+ added alpha technical doc website + binding but it remains under heavy construction. feedbacks are welcome.
+ added alpha personnal profile exemple on team board based on Academic Theme for HUGO. This second link is far more complete. feedbacks are welcome.
+  Next update :  finish &amp;amp; polish team mate board.</description>
     </item>
     
     <item>
@@ -194,42 +56,12 @@
       <pubDate>Tue, 21 Feb 2017 15:00:00 +0100</pubDate>
       
       <guid>https://labsim.github.io/blog/2017/02/day/update-0/</guid>
-      <description>
-
-&lt;h2 id=&#34;open-beta&#34;&gt;Open Beta&lt;/h2&gt;
-
-&lt;p&gt;Update 0.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;minors-update&#34;&gt;Minors update :&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;team now follow actual composition. &lt;em&gt;Maybe we should add phd affiliate ? Under a specific section ? or not ?&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;team mate now have a pretty face, a correct role &amp;amp; branch/department/unit classification.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;corrected some error&amp;hellip;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;add binding to disqus. It allow visitor to freely discuss around blog article.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;next-update&#34;&gt;Next update :&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;finalize team mate board (picture + role)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;add labsim API key for Google Maps binding. (&lt;strong&gt;&lt;a href=&#34;https://labsim.github.io/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/strong&gt; section bug)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;generated LABSIM technical doc site + binding.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;personnal scienfic profile + procedure &amp;ldquo;HOW TO&amp;rdquo;. Probably based on &lt;em&gt;&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/&#34;&gt;Academic Theme for HUGO&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;correct the other, yet undiscovered, error.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;em&gt;Cheers.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Open Beta Update 0.
+Minors update :  team now follow actual composition. Maybe we should add phd affiliate ? Under a specific section ? or not ?.
+ team mate now have a pretty face, a correct role &amp;amp; branch/department/unit classification.
+ corrected some error&amp;hellip;
+ add binding to disqus. It allow visitor to freely discuss around blog article.
+  Next update :  finalize team mate board (picture + role)</description>
     </item>
     
   </channel>

@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on LABSIM</title>
-    <link>https://labsim.github.io/tags/project/index.xml</link>
+    <link>https://labsim.github.io/tags/project/</link>
     <description>Recent content in Project on LABSIM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, ONERA; all rights reserved.</copyright>
-    <atom:link href="https://labsim.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2017 10:41:27 +0100</lastBuildDate>
+    
+	<atom:link href="https://labsim.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Projet de Recherche - CONTAHCT</title>
@@ -15,94 +18,8 @@
       <pubDate>Mon, 20 Mar 2017 10:41:27 +0100</pubDate>
       
       <guid>https://labsim.github.io/blog/2017/03/day/pr-contahct/</guid>
-      <description>
-
-&lt;h3 id=&#34;titre&#34;&gt;Titre&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;CONTAHCT&lt;/strong&gt; - &lt;em&gt;&lt;strong&gt;CON&lt;/strong&gt;ception d’une assis&lt;strong&gt;T&lt;/strong&gt;ance à l’&lt;strong&gt;A&lt;/strong&gt;ppontage &lt;strong&gt;H&lt;/strong&gt;élicoptères intégrant des techniques basées &lt;strong&gt;C&lt;/strong&gt;ap&lt;strong&gt;T&lt;/strong&gt;eurs&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;problématique&#34;&gt;Problématique&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Comment aider au mieux les pilotes dans un environnement complexe et incertain ? &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;resumé&#34;&gt;Resumé&lt;/h3&gt;
-
-&lt;p&gt;L&amp;rsquo;appontage d&amp;rsquo;un hélicoptère sur des bâtiments marins ou des plateformes isolées constitue une opération complexe, par la présence d’un environnement inhabituel et stressant, d’une aérologie singulière et éventuellement des mouvements du pont. À travers ce projet, on souhaite donc concevoir, mettre au point et évaluer des techniques d’aide au pilotage lors d’un appontage d’hélicoptère. Ces techniques pourront utiliser d’une part des informations de nature visuelle acquises par des senseurs embarqués sur l’aéronef ou le pont, d’autre part des interfaces de pilotage évoluées pour assister explicitement le pilote durant les différentes phases de la manœuvre.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/news/pr-contahct-0.png&#34; alt=&#34;pr-contacht-0&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/news/pr-contahct-1.png&#34; alt=&#34;pr-contacht-1&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/news/pr-contahct-2.png&#34; alt=&#34;pr-contacht-2&#34; /&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_200px.jpg&#34; alt=&#34;blank_200px&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://labsim.github.io/img/blank_50px.jpg&#34; alt=&#34;blank_50px&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;objectif&#34;&gt;Objectif&lt;/h3&gt;
-
-&lt;p&gt;L’expérimentation proposée vise à implémenter différentes lois de haut niveau d’assistance au pilotage, et à évaluer celles-ci en simulation pilotée dans un environnement réaliste.&lt;/p&gt;
-
-&lt;h3 id=&#34;référence&#34;&gt;Référence&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Q. H. Truong, T. Rakotomamonjy, A. Taghizad, J.-M. Biannic, Vision-based control for helicopter ship landing with handling qualities constraints,20th IFAC Symposium on Automatic Control in Aerospace, Sherbrooke, 2016.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Titre CONTAHCT - CONception d’une assisTance à l’Appontage Hélicoptères intégrant des techniques basées CapTeurs
+Problématique  Comment aider au mieux les pilotes dans un environnement complexe et incertain ?  Resumé L&amp;rsquo;appontage d&amp;rsquo;un hélicoptère sur des bâtiments marins ou des plateformes isolées constitue une opération complexe, par la présence d’un environnement inhabituel et stressant, d’une aérologie singulière et éventuellement des mouvements du pont. À travers ce projet, on souhaite donc concevoir, mettre au point et évaluer des techniques d’aide au pilotage lors d’un appontage d’hélicoptère.</description>
     </item>
     
   </channel>
