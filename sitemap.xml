@@ -60,6 +60,10 @@
   </url>
   
   <url>
+    <loc>https://labsim.github.io/member/</loc>
+  </url>
+  
+  <url>
     <loc>https://labsim.github.io/categories/news/</loc>
     <lastmod>2017-03-20T10:41:27+01:00</lastmod>
     <priority>0</priority>
@@ -78,7 +82,7 @@
   </url>
   
   <url>
-    <loc>https://labsim.github.io/team/</loc>
+    <loc>https://labsim.github.io/user/</loc>
   </url>
   
 </urlset>

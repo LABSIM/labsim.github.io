@@ -70,8 +70,7 @@ Minors update :  team now follow actual composition. Maybe we should add phd aff
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://labsim.github.io/about/</guid>
-      <description>The ONERA LABSIM (LABoratoire de SIMulation), created mid-October 2010, was initially designed to support human-system interaction in helicopter operations research studies in order to reveal innovative interaction concepts, prototype &amp;amp; evaluate them in piloted simulation.    Capabilities Following the VR principles, the LABSIM capabilities can be dived as 3 categories :
-1. Sensory-motor devices : &amp;ldquo;Exploring next-gen piloting interfaces&amp;rdquo;  Wittenstein &amp;copy; active side-sticks for flight envelop protection &amp;amp; obstacke avoidance multi-touch devices with up to ten touch-points Haption Virtuose &amp;copy; 6-dimensional robot arm for disruptive interaction means hand free gesture captue through LeapMotion &amp;copy; devices AR &amp;amp; VR head-mounted display  2.</description>
+      <description>The ONERA LABSIM (from French acronym : &amp;ldquo;LABoratoire de SIMulation&amp;rdquo;), created mid-October 2010, was initially designed to support ; human-system interaction in aeronautics, rotary-wings operations &amp;amp; systems research studies in order to reveal innovative interaction concepts, prototype &amp;amp; evaluate them in piloted simulation.    Capabilities Following the VR principles, the LABSIM capabilities can be dived as 3 categories :</description>
     </item>
     
     <item>
@@ -84,19 +83,36 @@ Minors update :  team now follow actual composition. Maybe we should add phd aff
     </item>
     
     <item>
-      <title>Team mate</title>
-      <link>https://labsim.github.io/team/</link>
+      <title>Member</title>
+      <link>https://labsim.github.io/member/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://labsim.github.io/team/</guid>
-      <description>Our team is a composition of different scientific fields :
-Computer Science                    Christian SCHULTE
+      <guid>https://labsim.github.io/member/</guid>
+      <description> Applied Computer Science                    Christian SCHULTE
 in charge of the LABSIM - dev ops
 DTIS/ICNA  Nawfel KINANI
 lead dev
 DTIS/ICNA  Gregory BONIN
 hardware guru
-DTIS/ICNA    Cognitive Engineering &amp;amp; Applied Neurosciences                        Jean-Christophe SARRAZIN</description>
+DTIS/ICNA    </description>
+    </item>
+    
+    <item>
+      <title>User</title>
+      <link>https://labsim.github.io/user/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://labsim.github.io/user/</guid>
+      <description>Our users came from various scientific fields :
+Cognitive Engineering &amp;amp; Applied Neurosciences                        Jean-Christophe SARRAZIN
+Scientist
+DTIS/ICNA  Bruno BERBERIAN
+Scientist
+DTIS/ICNA  Andrea DESANTIS
+Scientist
+DTIS/ICNA  Thomas RAKOTOMAMONJY
+Scientist
+DTIS/ICNA                     Patrick LE BLAYE</description>
     </item>
     
   </channel>
