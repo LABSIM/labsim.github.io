@@ -83,11 +83,11 @@ Minors update :  team now follow actual composition. Maybe we should add phd aff
     </item>
     
     <item>
-      <title>Member</title>
-      <link>https://labsim.github.io/member/</link>
+      <title>Members</title>
+      <link>https://labsim.github.io/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://labsim.github.io/member/</guid>
+      <guid>https://labsim.github.io/members/</guid>
       <description> Applied Computer Science                    Christian SCHULTE
 in charge of the LABSIM - dev ops
 DTIS/ICNA  Nawfel KINANI
@@ -98,11 +98,11 @@ DTIS/ICNA    </description>
     </item>
     
     <item>
-      <title>User</title>
-      <link>https://labsim.github.io/user/</link>
+      <title>Users</title>
+      <link>https://labsim.github.io/users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://labsim.github.io/user/</guid>
+      <guid>https://labsim.github.io/users/</guid>
       <description>Our users came from various scientific fields :
 Cognitive Engineering &amp;amp; Applied Neurosciences                        Jean-Christophe SARRAZIN
 Scientist
